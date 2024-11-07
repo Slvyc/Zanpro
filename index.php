@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Zanpro</title>
-  <link rel="icon" href="/Web-Profile-Company/img/zanpro logo.jpg">
+  <link rel="icon" href="/Zanpro/img/zanpro logo.jpg">
   <!-- Bootstrap CSS -->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
   
@@ -83,7 +83,7 @@
   <div class="container">
     <div class="row align-items-center">
       <div class="col-lg-6 mb-4 mb-lg-0">
-        <img src="/Web-Profile-Company/img/zanpro y.jpg" alt="Zanpro Real Estate Team" class="img-fluid rounded shadow">
+        <img src="/Zanpro/img/zanpro y.jpg" alt="Zanpro Real Estate Team" class="img-fluid rounded shadow">
       </div>
       <div class="col-lg-6">
         <h2 class="mb-4">About Zanpro</h2>
@@ -167,8 +167,8 @@
             <div class="col-md-4">
               <div class="card-news h-100 border-0 shadow-sm position-relative">
               <div class="img-wrapper">
-                <img src="/Web-Profile-Company/img/tren.jpeg" class="card-img-top" alt="Berita 1">
-                <img src="/Web-Profile-Company/img/soldout.jpeg" class="overlay-img" alt="Sold Out">
+                <img src="/Zanpro/img/tren.jpeg" class="card-img-top" alt="Berita 1">
+                <img src="/Zanpro/img/soldout.jpeg" class="overlay-img" alt="Sold Out">
               </div>
                 <div class="card-body">
                   <h5 class="card-title">Tren Desain Interior 2024</h5>
@@ -182,7 +182,7 @@
             </div>
             <div class="col-md-4">
               <div class="card-news h-100 border-0 shadow-sm">
-                <img src="/Web-Profile-Company/img/tren.jpeg" class="card-img-top" alt="Berita 1">
+                <img src="/Zanpro/img/tren.jpeg" class="card-img-top" alt="Berita 1">
                 <div class="card-body">
                   <h5 class="card-title">Tren Desain Interior 2024</h5>
                   <p class="card-text">Pelajari tren desain interior terbaru yang akan mendominasi tahun 2023 dan cara menerapkannya di rumah Anda.</p>
@@ -195,7 +195,7 @@
             </div>
             <div class="col-md-4">
               <div class="card-news h-100 border-0 shadow-sm">
-                <img src="/Web-Profile-Company/img/tren.jpeg" class="card-img-top" alt="Berita 1">
+                <img src="/Zanpro/img/tren.jpeg" class="card-img-top" alt="Berita 1">
                 <div class="card-body">
                   <h5 class="card-title">Tren Desain Interior 2024</h5>
                   <p class="card-text">Pelajari tren desain interior terbaru yang akan mendominasi tahun 2023 dan cara menerapkannya di rumah Anda.</p>
@@ -212,7 +212,7 @@
           <div class="row g-4">
             <div class="col-md-4">
               <div class="card-news h-100 border-0 shadow-sm">
-                <img src="/Web-Profile-Company/img/kota berkembang.jpg" class="card-img-top" alt="Berita 2">
+                <img src="/Zanpro/img/kota berkembang.jpg" class="card-img-top" alt="Berita 2">
                 <div class="card-body">
                   <h5 class="card-title">Investasi Properti di Kota Berkembang</h5>
                   <p class="card-text">Temukan peluang investasi menjanjikan di kota-kota berkembang Indonesia dan tips memilih lokasi yang tepat.</p>
@@ -225,7 +225,7 @@
             </div>
             <div class="col-md-4">
               <div class="card-news h-100 border-0 shadow-sm">
-                <img src="/Web-Profile-Company/img/kota berkembang.jpg" class="card-img-top" alt="Berita 2">
+                <img src="/Zanpro/img/kota berkembang.jpg" class="card-img-top" alt="Berita 2">
                 <div class="card-body">
                   <h5 class="card-title">Investasi Properti di Kota Berkembang</h5>
                   <p class="card-text">Temukan peluang investasi menjanjikan di kota-kota berkembang Indonesia dan tips memilih lokasi yang tepat.</p>
@@ -238,7 +238,7 @@
             </div>
             <div class="col-md-4">
               <div class="card-news h-100 border-0 shadow-sm">
-                <img src="/Web-Profile-Company/img/kota berkembang.jpg" class="card-img-top" alt="Berita 2">
+                <img src="/Zanpro/img/kota berkembang.jpg" class="card-img-top" alt="Berita 2">
                 <div class="card-body">
                   <h5 class="card-title">Investasi Properti di Kota Berkembang</h5>
                   <p class="card-text">Temukan peluang investasi menjanjikan di kota-kota berkembang Indonesia dan tips memilih lokasi yang tepat.</p>
@@ -255,7 +255,7 @@
           <div class="row g-4">
             <div class="col-md-4">
               <div class="card-news h-100 border-0 shadow-sm">
-                <img src="/Web-Profile-Company/img/tips.jpg" class="card-img-top" alt="Berita 3">
+                <img src="/Zanpro/img/tips.jpg" class="card-img-top" alt="Berita 3">
                 <div class="card-body">
                   <h5 class="card-title">Tips Mengajukan KPR untuk Milenial</h5>
                   <p class="card-text">Panduan lengkap bagi generasi milenial yang ingin mengajukan KPR untuk pertama kalinya.</p>
@@ -268,7 +268,7 @@
             </div>
             <div class="col-md-4">
               <div class="card-news h-100 border-0 shadow-sm">
-                <img src="/Web-Profile-Company/img/tips.jpg" class="card-img-top" alt="Berita 3">
+                <img src="/Zanpro/img/tips.jpg" class="card-img-top" alt="Berita 3">
                 <div class="card-body">
                   <h5 class="card-title">Tips Mengajukan KPR untuk Milenial</h5>
                   <p class="card-text">Panduan lengkap bagi generasi milenial yang ingin mengajukan KPR untuk pertama kalinya.</p>
@@ -281,7 +281,7 @@
             </div>
             <div class="col-md-4">
               <div class="card-news h-100 border-0 shadow-sm">
-                <img src="/Web-Profile-Company/img/tips.jpg" class="card-img-top" alt="Berita 3">
+                <img src="/Zanpro/img/tips.jpg" class="card-img-top" alt="Berita 3">
                 <div class="card-body">
                   <h5 class="card-title">Tips Mengajukan KPR untuk Milenial</h5>
                   <p class="card-text">Panduan lengkap bagi generasi milenial yang ingin mengajukan KPR untuk pertama kalinya.</p>

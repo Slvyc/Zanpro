@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Zanpro</title>
-    <link rel="icon" href="/Web-Profile-Company/img/zanpro logo.jpg">
+    <link rel="icon" href="/Zanpro/img/zanpro logo.jpg">
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="css/style.css">
@@ -63,8 +63,6 @@
                                 style="font-size: 2rem; color: #1877F2;"></i></a>
                         <a href="#" target="_blank"><i class="bi bi-tiktok"
                                 style="font-size: 2rem; color: #000000;"></i></a>
-                        <a href="#" target="_blank"><i class="bi bi-shop"
-                                style="font-size: 2rem; color: #FF5000;"></i></a> <!-- OLX -->
                         <a href="#" target="_blank">
                             <img src="img/olx 1.png" alt="OLX" style="width: 2rem; height: 2rem;">
                         </a>

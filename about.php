@@ -4,7 +4,7 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Zanpro</title>
-        <link rel="icon" href="/Web-Profile-Company/img/zanpro logo.jpg">
+        <link rel="icon" href="/Zanpro/img/zanpro logo.jpg">
         <!-- Bootstrap CSS -->
          <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
          <link rel="stylesheet" href="css/style.css">
@@ -32,7 +32,7 @@
             <div class="aboutUs-container">
                 <div class="aboutUs-card">
                     <div class="aboutUs-image-container">
-                        <img src="/Web-Profile-Company/img/zanpro y.jpg" alt="About Us Image" class="aboutUs-image">
+                        <img src="/Zanpro/img/zanpro y.jpg" alt="About Us Image" class="aboutUs-image">
                     </div>
                     <div class="aboutUs-content">
                         <h2 class="aboutUs-title">Sejarah Zanpro</h2>
@@ -67,7 +67,7 @@
                             The purpose of lorem ipsum is to create a natural looking block of text (sentence, paragraph, page, etc.) that doesn't distract from the layout. A practice not without controversy, laying out pages with meaningless filler text can be very useful when the focus is meant to be on design, not content.
                             The passage experienced a surge in popularity during the 1960s when Letraset used it on their dry-transfer sheets, and again during the 90s as desktop publishers bundled the text with their software. Today it's seen all around the web; on templates, websites, and stock designs. Use our generator to get your own, or read on for the authoritative history of lorem ipsum.</p>
                         </div>
-                        <img src="/Web-Profile-Company/img/zanpro logo.jpg" alt="Our History Image 1" class="ourHistory-image">
+                        <img src="/Zanpro/img/zanpro logo.jpg" alt="Our History Image 1" class="ourHistory-image">
                     </div>
                 </div>
                 <div class="carousel-item">
@@ -79,7 +79,7 @@
                             The purpose of lorem ipsum is to create a natural looking block of text (sentence, paragraph, page, etc.) that doesn't distract from the layout. A practice not without controversy, laying out pages with meaningless filler text can be very useful when the focus is meant to be on design, not content.
                             The passage experienced a surge in popularity during the 1960s when Letraset used it on their dry-transfer sheets, and again during the 90s as desktop publishers bundled the text with their software. Today it's seen all around the web; on templates, websites, and stock designs. Use our generator to get your own, or read on for the authoritative history of lorem ipsum.</p>
                         </div>
-                        <img src="/Web-Profile-Company/img/zanpro logo.jpg" alt="Our History Image 2" class="ourHistory-image">
+                        <img src="/Zanpro/img/zanpro logo.jpg" alt="Our History Image 2" class="ourHistory-image">
                     </div>
                 </div>
                 <div class="carousel-item">
@@ -91,7 +91,7 @@
                             The purpose of lorem ipsum is to create a natural looking block of text (sentence, paragraph, page, etc.) that doesn't distract from the layout. A practice not without controversy, laying out pages with meaningless filler text can be very useful when the focus is meant to be on design, not content.
                             The passage experienced a surge in popularity during the 1960s when Letraset used it on their dry-transfer sheets, and again during the 90s as desktop publishers bundled the text with their software. Today it's seen all around the web; on templates, websites, and stock designs. Use our generator to get your own, or read on for the authoritative history of lorem ipsum.</p>
                         </div>
-                        <img src="/Web-Profile-Company/img/zanpro logo.jpg" alt="Our History Image 3" class="ourHistory-image">
+                        <img src="/Zanpro/img/zanpro logo.jpg" alt="Our History Image 3" class="ourHistory-image">
                     </div>
                 </div>
                 <div class="carousel-item">
@@ -103,7 +103,7 @@
                             The purpose of lorem ipsum is to create a natural looking block of text (sentence, paragraph, page, etc.) that doesn't distract from the layout. A practice not without controversy, laying out pages with meaningless filler text can be very useful when the focus is meant to be on design, not content.
                             The passage experienced a surge in popularity during the 1960s when Letraset used it on their dry-transfer sheets, and again during the 90s as desktop publishers bundled the text with their software. Today it's seen all around the web; on templates, websites, and stock designs. Use our generator to get your own, or read on for the authoritative history of lorem ipsum.</p>
                         </div>
-                        <img src="/Web-Profile-Company/img/zanpro logo.jpg" alt="Our History Image 4" class="ourHistory-image">
+                        <img src="/Zanpro/img/zanpro logo.jpg" alt="Our History Image 4" class="ourHistory-image">
                     </div>
                 </div>
                 <div class="carousel-item">
@@ -115,7 +115,7 @@
                             The purpose of lorem ipsum is to create a natural looking block of text (sentence, paragraph, page, etc.) that doesn't distract from the layout. A practice not without controversy, laying out pages with meaningless filler text can be very useful when the focus is meant to be on design, not content.
                             The passage experienced a surge in popularity during the 1960s when Letraset used it on their dry-transfer sheets, and again during the 90s as desktop publishers bundled the text with their software. Today it's seen all around the web; on templates, websites, and stock designs. Use our generator to get your own, or read on for the authoritative history of lorem ipsum.</p>
                         </div>
-                        <img src="/Web-Profile-Company/img/zanpro logo.jpg" alt="Our History Image 4" class="ourHistory-image">
+                        <img src="/Zanpro/img/zanpro logo.jpg" alt="Our History Image 4" class="ourHistory-image">
                     </div>
                 </div>
             </div>

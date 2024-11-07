@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Zanpro</title>
-    <link rel="icon" href="/Web-Profile-Company/img/zanpro logo.jpg">
+    <link rel="icon" href="/Zanpro/img/zanpro logo.jpg">
     <!-- Bootstrap CSS -->
      <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
      <link rel="stylesheet" href="css/style.css">
@@ -33,7 +33,7 @@
         <div class="service-page-container">
     <!-- Card pertama: Gambar di sebelah kiri, konten di sebelah kanan -->
     <div class="service-page-card">
-        <img src="/Web-Profile-Company/img/img.jpg" alt="service" class="service-page-image">
+        <img src="/Zanpro/img/img.jpg" alt="service" class="service-page-image">
         <div class="service-page-content">
             <h2 class="service-page-title">Agency Property</h2>
             <p>Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) 
@@ -52,12 +52,12 @@
             textos especimen. No sólo sobrevivió 500 años, sino que también ingresó como texto de relleno en 
             documentos electrónicos, quedando esencialmente igual al original.</p>
         </div>
-        <img src="/Web-Profile-Company/img/img2.jpg" alt="Sejarah Kami" class="service-page-image">
+        <img src="/Zanpro/img/img2.jpg" alt="Sejarah Kami" class="service-page-image">
     </div>
 
 <!-- Card ketiga: Gambar di sebelah kanan, konten di sebelah kiri -->
 <div class="service-page-card">
-        <img src="/Web-Profile-Company/img/img.jpg" alt="Tentang Kami" class="service-page-image">
+        <img src="/Zanpro/img/img.jpg" alt="Tentang Kami" class="service-page-image">
         <div class="service-page-content">
             <h2 class="service-page-title">Property Rentals</h2>
             <p>Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) 
@@ -76,7 +76,7 @@
             textos especimen. No sólo sobrevivió 500 años, sino que también ingresó como texto de relleno en 
             documentos electrónicos, quedando esencialmente igual al original.</p>
         </div>
-        <img src="/Web-Profile-Company/img/img2.jpg" alt="Sejarah Kami" class="service-page-image">
+        <img src="/Zanpro/img/img2.jpg" alt="Sejarah Kami" class="service-page-image">
     </div>
     </div>
 
