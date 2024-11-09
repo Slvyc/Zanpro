@@ -73,7 +73,7 @@ a{
 }
 .header .menu > .menu-item > a{
 	display: block;
-	padding: 12px 0;
+	padding: 5px 0;
 	font-size: 18px;
 	color: #000;
 	text-transform: capitalize;
@@ -339,7 +339,7 @@ a{
   }
 
   .bg-custom-property-search{
-	background-color: #F8F781 !important;
+	background-color: #ffffc4 !important;
   }
   
   .property-search-form {
