@@ -26,8 +26,8 @@
                     <p class="lead text-black mb-4">Kami menyediakan layanan real estate terbaik untuk membantu Anda
                         menemukan properti yang sempurna sesuai kebutuhan dan anggaran Anda.</p>
                     <div class="d-flex gap-3">
-                        <a href="#" class="btn btn-outline-dark btn-lg">Cari Properti</a>
-                        <a href="#" class="btn btn-outline-dark btn-lg">Hubungi Kami</a>
+                        <a href="properties.php" class="btn btn-outline-dark btn-lg">Cari Properti</a>
+                        <a href="contact.php" class="btn btn-outline-dark btn-lg">Hubungi Kami</a>
                     </div>
                 </div>
             </div>
@@ -64,7 +64,7 @@
                         <a href="#" target="_blank"><i class="bi bi-tiktok"
                                 style="font-size: 2rem; color: #000000;"></i></a>
                         <a href="#" target="_blank">
-                            <img src="img/olx 1.png" alt="OLX" style="width: 2rem; height: 2rem;">
+                            <img src="img/olx 1.png" alt="OLX" style="width: 3rem; height: 3rem;">
                         </a>
                     </div>
 

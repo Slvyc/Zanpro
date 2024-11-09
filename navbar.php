@@ -43,5 +43,13 @@
            </nav>
            <!-- navigation menu end -->
         </div>
-     </div>
+
+      <?php if (basename($_SERVER['PHP_SELF']) == 'index.php'): ?> 
+        <form class="mt-3">
+            <div class="input-group">
+                <input type="text" class="form-control" placeholder="Search"> 
+                <button class="btn btn-primary search-btn" type="submit"><i class="fas fa-search"></i></button>
+            </div>
+        </form>
+      <?php endif; ?>
   </header>

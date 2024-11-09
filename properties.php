@@ -68,8 +68,8 @@
                         <h1 class="display-4 text-black fw-bold mb-4">Temukan Rumah Impian Anda Bersama Zanpro</h1>
                         <p class="lead text-black mb-4">Looking to Buy, Sell, Rent, Invest or Manage?</p>
                         <div class="d-flex gap-3">
-                            <a href="#" class="btn btn-outline-dark btn-lg">Cari Properti</a>
-                            <a href="#" class="btn btn-outline-dark btn-lg">Hubungi Kami</a>
+                            <a href="properties.php" class="btn btn-outline-dark btn-lg">Cari Properti</a>
+                            <a href="contact.php" class="btn btn-outline-dark btn-lg">Hubungi Kami</a>
                         </div>
                     </div>
                 </div>

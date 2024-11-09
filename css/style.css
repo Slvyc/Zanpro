@@ -51,7 +51,7 @@ a{
 }
 
 .header .logo img {
-    max-width: 110px; /* Sesuaikan tinggi maksimum sesuai kebutuhan */
+    max-width: 70px; /* Sesuaikan tinggi maksimum sesuai kebutuhan */
     width: auto; /* Menjaga aspek rasio gambar */
     vertical-align: middle; /* Menyesuaikan posisi vertikal gambar */
 	margin-left: 20px;
@@ -122,7 +122,7 @@ a{
 	left:0;
 	top:100%;
 	background-color: #ffffff;
-	padding: 10px 0;
+	padding: 5px 0;
 	border-top: 3px solid #000;
 	transform: translateY(10px);
 	transition: all 0.3s ease;
@@ -281,6 +281,35 @@ a{
 	.header .open-nav-menu{
 		display: flex;
 	}
+}
+
+.form-control {
+    transition: all 0.3s ease; /* Menambahkan transisi untuk efek halus */
+    opacity: 0; /* Sembunyikan input secara default */
+    transform: translateX(20px); /* Pindahkan input ke kanan */
+    border: 2px solid #ccc; /* Border default */
+    border-radius: 5px; /* Menambahkan sudut melengkung */
+}
+
+.input-group:hover .form-control {
+    display: block; /* Tampilkan input saat hover */
+    opacity: 1; /* Ubah opacity menjadi 1 */
+    transform: translateX(0); /* Kembalikan posisi input */
+    border-color: #007bff; /* Ubah warna border saat hover */
+}
+
+.search-btn {
+    transition: all 0.3s ease; /* Menambahkan transisi untuk efek halus */
+    border: 2px solid transparent; /* Border default */
+    border-radius: 5px; /* Menambahkan sudut melengkung */
+}
+
+.search-btn:hover {
+    background-color: #F8F781; /* Mengubah latar belakang saat di-hover */
+    color: #000; /* Mengubah warna teks saat di-hover */
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3); /* Menambahkan bayangan saat di-hover */
+    transform: scale(1.05); /* Sedikit memperbesar tombol saat di-hover */
+    border-color: #007bff; /* Ubah warna border saat hover */
 }
 /* end navbar */
 
