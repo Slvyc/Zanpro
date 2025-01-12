@@ -3,7 +3,7 @@
         <div class="row justify-content-center">
             <div class="col-md-4 mb-4 mb-md-0 text-center">
                 <h3>About Us</h3>
-                <p>At Zanpro, we pride ourselves on being a trusted and reputable name in the real estate industry with
+                <p>At Zandpro, we pride ourselves on being a trusted and reputable name in the real estate industry with
                     years of experience.</p>
             </div>
             <div class="col-md-4 mb-4 mb-md-0 text-center">
@@ -18,7 +18,7 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-md-12 text-center">
-                    <p class="mb-0">© <?php echo date("Y"); ?> Zanpro. All rights reserved.</p>
+                    <p class="mb-0">© <?php echo date("Y"); ?> Zandpro. All rights reserved.</p>
                 </div>
             </div>
         </div>

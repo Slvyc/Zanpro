@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Zanpro</title>
+        <title>Zandpro</title>
         <link rel="icon" href="/Zanpro/img/zanpro logo.jpg">
         <!-- Bootstrap CSS -->
          <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -17,7 +17,7 @@
                 <div class="container h-100">
                     <div class="row h-100 align-items-center">
                         <div class="col-lg-6">
-                            <h1 class="display-4 text-black fw-bold mb-4">Temukan Rumah Impian Anda Bersama Zanpro</h1>
+                            <h1 class="display-4 text-black fw-bold mb-4">Temukan Rumah Impian Anda Bersama Zandpro</h1>
                             <p class="lead text-black mb-4">Kami menyediakan layanan real estate terbaik untuk membantu Anda menemukan properti yang sempurna sesuai kebutuhan dan anggaran Anda.</p>
                             <div class="d-flex gap-3">
                                 <a href="properties.php" class="btn btn-outline-dark btn-lg">Cari Properti</a>
@@ -35,7 +35,7 @@
                         <img src="/Zanpro/img/zanpro y.jpg" alt="About Us Image" class="aboutUs-image">
                     </div>
                     <div class="aboutUs-content">
-                        <h2 class="aboutUs-title">Sejarah Zanpro</h2>
+                        <h2 class="aboutUs-title">Sejarah Zandpro</h2>
                         <p>Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) 
                 desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de 
                 textos especimen. No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en 
@@ -51,7 +51,7 @@
         <!--clientCentric-->
         <div class="clientCentric-container">
             <div class="clientCentric-content">
-                <p>Struktural Organisasi Zanpro</p>
+                <p>Struktural Organisasi Zandpro</p>
             </div>
         </div>
         
