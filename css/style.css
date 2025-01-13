@@ -295,13 +295,15 @@ a{
     display: block; /* Tampilkan input saat hover */
     opacity: 1; /* Ubah opacity menjadi 1 */
     transform: translateX(0); /* Kembalikan posisi input */
-    border-color: #007bff; /* Ubah warna border saat hover */
+    border-color: #000; /* Ubah warna border saat hover */
 }
 
 .search-btn {
     transition: all 0.3s ease; /* Menambahkan transisi untuk efek halus */
     border: 2px solid transparent; /* Border default */
     border-radius: 5px; /* Menambahkan sudut melengkung */
+	color: #fff !important;
+	background-color: #000 !important;
 }
 
 .search-btn:hover {
@@ -309,7 +311,7 @@ a{
     color: #000; /* Mengubah warna teks saat di-hover */
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3); /* Menambahkan bayangan saat di-hover */
     transform: scale(1.05); /* Sedikit memperbesar tombol saat di-hover */
-    border-color: #007bff; /* Ubah warna border saat hover */
+    border-color: #000; /* Ubah warna border saat hover */
 }
 /* end navbar */
 
