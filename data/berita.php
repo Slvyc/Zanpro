@@ -23,6 +23,7 @@ $berita = [
         'id' => 2,
         'judul' => 'TANAH DIJUAL',
         'tanggal' => '27 November 2024',
+        'type'=> 'image',
         'gambar' => [
             '/Zanpro/Zandpro_assets/tanah paya bakong.jpg'
         ],
@@ -39,6 +40,7 @@ $berita = [
         'id' => 3,
         'judul' => 'FOR SALE',
         'tanggal' => '27 November 2024',
+        'type'=> 'image',
         'gambar' => [
             '/Zanpro/Zandpro_assets/sold.jpg'
         ],
@@ -61,6 +63,7 @@ $berita = [
         'id' => 4,
         'judul' => 'APART FOR SALE',
         'tanggal' => '09 Desember 2024',
+        'type'=> 'image',
         'gambar' => [
             '/Zanpro/Zandpro_assets/apart 200/1.jpg',
             '/Zanpro/Zandpro_assets/apart 200/2.jpg',
@@ -87,6 +90,7 @@ $berita = [
         'id' =>5,
         'judul' => 'ASET 7',
         'tanggal' => '09 Oktober 2024',
+        'type'=> 'image',
         'gambar' => [
             '/Zanpro/Zandpro_assets/banda aceh geuce/1.jpg',
             '/Zanpro/Zandpro_assets/banda aceh geuce/2.jpg',
@@ -125,6 +129,7 @@ $berita = [
         'id' =>6,
         'judul' => 'DREAM HOUSE',
         'tanggal' => '09 Desember 2024',
+        'type'=> 'image',
         'gambar' =>[
             '/Zanpro/Zandpro_assets/dream house desa bitai/1.jpg',
             '/Zanpro/Zandpro_assets/dream house desa bitai/2.jpg',
@@ -167,6 +172,7 @@ $berita = [
         'id' =>7,
         'judul' => 'FOR SALE',
         'tanggal' => '08 September 2024',
+        'type'=> 'image',
         'gambar' => [
             '/Zanpro/Zandpro_assets/for sale/1.jpg',
             '/Zanpro/Zandpro_assets/for sale/2.jpg',
@@ -188,6 +194,7 @@ $berita = [
         'id' =>8,
         'judul' => 'HOME FOR SALE',
         'tanggal' => '11 Oktober 2024',
+        'type'=> 'image',
         'gambar' => [
             '/Zanpro/Zandpro_assets/home aceh besar, meunasah intan/1.jpg',
             '/Zanpro/Zandpro_assets/home aceh besar, meunasah intan/2.jpg',
@@ -224,6 +231,7 @@ $berita = [
         'id' => 9,
         'judul' => 'HOUSE FOR SALE',
         'tanggal' => '11 Oktober 2024',
+        'type'=> 'image',
         'gambar' => [
             '/Zanpro/Zandpro_assets/house medan, comp city home/1.jpg',
             '/Zanpro/Zandpro_assets/house medan, comp city home/2.jpg',
@@ -259,6 +267,7 @@ $berita = [
         'id' => 10,
         'judul' => 'FOR SALE',
         'tanggal' => '11 Desember 2024',
+        'type'=> 'image',
         'gambar' => [
             '/Zanpro/Zandpro_assets/Penawaran/1.jpg',
             '/Zanpro/Zandpro_assets/Penawaran/2.jpg',
@@ -288,6 +297,7 @@ $berita = [
         'id' => 11,
         'judul' => 'FOR SALE',
         'tanggal' => '24 September 2024',
+        'type'=> 'image',
         'gambar' => [
             '/Zanpro/Zandpro_assets/ruko blang oi/1.jpg',
             '/Zanpro/Zandpro_assets/ruko blang oi/2.jpg',
@@ -318,6 +328,7 @@ $berita = [
         'id' => 12,
         'judul' => 'MODERN FOR SALE',
         'tanggal' => '02 September 2024',
+        'type'=> 'image',
         'gambar' => [
             '/Zanpro/Zandpro_assets/ruko nagan raya/1.jpg',
             '/Zanpro/Zandpro_assets/ruko nagan raya/2.jpg',
