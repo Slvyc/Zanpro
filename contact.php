@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Zanpro</title>
+    <title>Zandpro</title>
     <link rel="icon" href="/Zanpro/img/zanpro logo.jpg">
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -22,7 +22,7 @@
         <div class="container h-100">
             <div class="row h-100 align-items-center">
                 <div class="col-lg-6">
-                    <h1 class="display-4 text-black fw-bold mb-4">Temukan Rumah Impian Anda Bersama Zanpro</h1>
+                    <h1 class="display-4 text-black fw-bold mb-4">Temukan Rumah Impian Anda Bersama Zandpro</h1>
                     <p class="lead text-black mb-4">Kami menyediakan layanan real estate terbaik untuk membantu Anda
                         menemukan properti yang sempurna sesuai kebutuhan dan anggaran Anda.</p>
                     <div class="d-flex gap-3">
@@ -45,7 +45,7 @@
                             <strong>Phone:</strong> +1 234 567 890
                         </li>
                         <li class="mb-3">
-                            <strong>Email:</strong> info@zanpro.com
+                            <strong>Email:</strong> info@zandpro.com
                         </li>
                         <li class="mb-3">
                             <strong>Working Hours:</strong> Mon - Fri: 9:00 AM - 5:00 PM

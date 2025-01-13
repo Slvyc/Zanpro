@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Zanpro</title>
+    <title>Zandpro</title>
     <link rel="icon" href="/Zanpro/img/zanpro logo.jpg">
     <!-- Bootstrap CSS -->
      <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -18,7 +18,7 @@
             <div class="container h-100">
                 <div class="row h-100 align-items-center">
                     <div class="col-lg-6">
-                        <h1 class="display-4 text-black fw-bold mb-4">Temukan Rumah Impian Anda Bersama Zanpro</h1>
+                        <h1 class="display-4 text-black fw-bold mb-4">Temukan Rumah Impian Anda Bersama Zandpro</h1>
                         <p class="lead text-black mb-4">Looking to Buy, Sell, Rent, Invest or Manage?</p>
                         <div class="d-flex gap-3">
                             <a href="properties.php" class="btn btn-outline-dark btn-lg">Cari Properti</a>

@@ -1,5 +1,3 @@
-
-
 (() =>{
  
   const openNavMenu = document.querySelector(".open-nav-menu"),
@@ -62,6 +60,40 @@
      if(this.innerWidth > mediaSize){
      	resizeFix();
      }
+  });
+
+  // Autoplay carousel berita
+  document.addEventListener('DOMContentLoaded', function() {
+    const newsCarousel = document.querySelector('#newsCarousel');
+    const carousel = new bootstrap.Carousel(newsCarousel, {
+        interval: 3000, // Waktu slide dalam milidetik (3 detik)
+        ride: 'carousel',
+        pause: 'hover' // Pause saat hover
+    });
+
+    // Pause carousel saat mouse masuk ke area berita
+    newsCarousel.addEventListener('mouseenter', function() {
+        carousel.pause();
+    });
+
+    // Jalankan kembali carousel saat mouse keluar dari area berita
+    newsCarousel.addEventListener('mouseleave', function() {
+        carousel.cycle();
+    });
+  });
+
+  // Tambahkan event listener untuk modal yang berisi video
+  document.addEventListener('DOMContentLoaded', function() {
+    // Pause video saat modal ditutup
+    document.querySelectorAll('.modal').forEach(modal => {
+        modal.addEventListener('hidden.bs.modal', function() {
+            const video = this.querySelector('video');
+            if (video) {
+                video.pause();
+                video.currentTime = 0;
+            }
+        });
+    });
   });
 
 })();
